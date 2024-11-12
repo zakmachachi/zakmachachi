@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+🔭 I’m currently working on modelling amorphous materials with atomistic ML.
+  
+My work can be found [here](https://scholar.google.co.uk/citations?user=_wgTSoQAAAAJ&hl=en) on Google Scholar
 <!--
 **zakmachachi/zakmachachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
